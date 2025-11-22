@@ -1,0 +1,18 @@
+{
+  "roundTrip": "Aller-retour",
+  "oneWay": "Aller simple",
+  "origin": "Origine",
+  "destination": "Destination",
+  "departureDate": "Date de départ",
+  "arrivalDate": "Date de retour",
+  "adults": "Adultes",
+  "children": "Enfants",
+  "infants": "Bébés",
+  "save": "Enregistrer",
+  "search": "Rechercher",
+  "adult": "Adulte",
+  "child": "Enfant",
+  "infant": "Bébé",
+  "heroTitle": "Comparez et réservez des vols nationaux et internationaux",
+  "heroSubtitle": "Comparez les prix et trouvez les meilleures offres"
+}

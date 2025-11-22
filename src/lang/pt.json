@@ -1,0 +1,18 @@
+{
+  "heroTitle": "Compare e reserve voos nacionais e internacionais",
+  "heroSubtitle": "Compare preços e encontre as melhores ofertas",
+  "roundTrip": "Ida e volta",
+  "oneWay": "Só ida",
+  "origin": "Origem",
+  "destination": "Destino",
+  "departureDate": "Data de partida",
+  "arrivalDate": "Data de chegada",
+  "adults": "Adultos",
+  "children": "Crianças",
+  "infants": "Bebês",
+  "save": "Salvar",
+  "search": "Buscar",
+  "adult": "Adulto",
+  "child": "Criança",
+  "infant": "Bebê"
+}

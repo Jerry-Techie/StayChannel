@@ -1,0 +1,18 @@
+{
+  "roundTrip": "Ida y vuelta",
+  "oneWay": "Solo ida",
+  "origin": "Origen",
+  "destination": "Destino",
+  "departureDate": "Fecha de salida",
+  "arrivalDate": "Fecha de regreso",
+  "adults": "Adultos",
+  "children": "Niños",
+  "infants": "Bebés",
+  "save": "Guardar",
+  "search": "Buscar",
+  "adult": "Adulto",
+  "child": "Niño",
+  "infant": "Bebé",
+  "heroTitle": "Compara y reserva vuelos nacionales e internacionales",
+  "heroSubtitle": "Compara precios y encuentra las mejores ofertas"
+}

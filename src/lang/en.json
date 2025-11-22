@@ -1,0 +1,18 @@
+{
+  "roundTrip": "Round Trip",
+  "oneWay": "One Way",
+  "origin": "Origin",
+  "destination": "Destination",
+  "departureDate": "Departure Date",
+  "arrivalDate": "Arrival Date",
+  "adults": "Adults",
+  "children": "Children",
+  "infants": "Infants",
+  "save": "Save",
+  "search": "Search",
+  "adult": "Adult",
+  "child": "Child",
+  "infant": "Infant",
+  "heroTitle": "Compare and book domestic and international flights.",
+  "heroSubtitle": "Compare prices and find the best deals."
+}

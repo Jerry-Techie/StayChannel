@@ -1,0 +1,18 @@
+{
+  "heroTitle": "Vergleichen und buchen Sie Inlands- und internationale Flüge",
+  "heroSubtitle": "Preise vergleichen und die besten Angebote finden",
+  "roundTrip": "Hin- und Rückflug",
+  "oneWay": "Nur Hinflug",
+  "origin": "Abflugort",
+  "destination": "Zielort",
+  "departureDate": "Abflugdatum",
+  "arrivalDate": "Rückflugdatum",
+  "adults": "Erwachsene",
+  "children": "Kinder",
+  "infants": "Säuglinge",
+  "save": "Speichern",
+  "search": "Suchen",
+  "adult": "Erwachsener",
+  "child": "Kind",
+  "infant": "Säugling"
+}

@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import logo from "../assets/StayChannel.png";
+import logo from  "../assets/Staychannel.png"
 import { FaPhoneAlt, FaYoutube, FaLinkedin, FaInstagram, FaFacebookSquare } from "react-icons/fa";
 
 const HeaderWrapper = styled.header`
